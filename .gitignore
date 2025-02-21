@@ -2,3 +2,5 @@ tictactoe/out
 untitled/out
 tictactoe/.idea
 untitled/.idea
+tennis/src/main/ressources/application.properties
+tennis/src/main/docker/postgres-data

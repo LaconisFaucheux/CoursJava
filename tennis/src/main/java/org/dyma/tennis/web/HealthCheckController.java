@@ -1,4 +1,4 @@
-package org.dyma.tennis.rest;
+package org.dyma.tennis.web;
 
 import org.dyma.tennis.service.HealthCheckService;
 import org.springframework.beans.factory.annotation.Autowired;
